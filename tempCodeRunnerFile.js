@@ -1,0 +1,1 @@
+console.log(typeof ab2.abhi)
